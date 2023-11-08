@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          オアシスへようこそ！オアシスの開発者のGaxasだ。ここでは私のことについて紹介するよ
+          オアシスへようこそ！私ここの管理者のGaxasだ。ここでは私のことについて紹介するよ
         </p>
       </section>
 
